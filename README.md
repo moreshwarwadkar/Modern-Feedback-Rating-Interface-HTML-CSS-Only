@@ -5,8 +5,7 @@ This project demonstrates a clean and modern design for displaying a 1-to-5 rati
 
 <p>⚠️ <strong>Note:</strong> This is a <em>static UI mockup</em> built with HTML & CSS only. The rating numbers and submit button are for <strong>visual design purposes</strong> and do not have functional interactivity.</p>
 
-(SCREENSHOT_OF_UI.png)
-
+![UI Screenshot](SCREENSHOT_OF_UI.png)
 
 <h2>🎨 Features </h2>
 
