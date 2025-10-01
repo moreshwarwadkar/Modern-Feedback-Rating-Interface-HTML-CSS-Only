@@ -1,7 +1,9 @@
- ⭐ <h2>Modern Feedback & Rating UI (HTML & CSS)</h2> ⭐
+<h2> ⭐ Modern Feedback & Rating UI (HTML & CSS) ⭐ </h2>
 
 A **beautiful, responsive feedback/rating UI mockup** built purely with **HTML** and **CSS**.  
 This project demonstrates a clean and modern design for displaying a 1-to-5 rating interface, perfect for **web UI portfolios, design demos, or inspiration**.  
+
+<p>⚠️ <strong>Note:</strong> This is a <em>static UI mockup</em> built with HTML & CSS only. The rating numbers and submit button are for <strong>visual design purposes</strong> and do not have functional interactivity.</p>
 
 <h2>🎨 Features </h2>
 
